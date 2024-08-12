@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2A5D5A;
+}
+
+.h1{
+    background-color:#311313;
+    color:#FFFFFF;
+    text-align: center;
+    width: 636px;
+    margin: 22px auto;
+    padding: 24px 28px;
+    font-size: 64px;
+}
+
+
+.main{
+    width: 1000px;
+    margin: 33px auto;
+    border: 10px solid #FF0606;
+    background-color: black;
+    padding: 45px 52px;
+}
+
+.green{
+    background-color: #1FE8B7;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 54px 39px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
